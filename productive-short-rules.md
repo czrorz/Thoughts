@@ -1,4 +1,4 @@
-\# 高产的短规则
+# 高产的短规则
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-\# Productive Short Rules
+# Productive Short Rules
 
 
 
