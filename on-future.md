@@ -1,8 +1,3 @@
-本文由AI根据我的想法以及我们之间的讨论整理写成。
-This article was written by AI based on my ideas and our discussions. English version follows below.
-
-
-
 # 关于未来
 
 
