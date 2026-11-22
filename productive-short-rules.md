@@ -2,7 +2,7 @@
 
 
 
-我越来越感觉，我们世界的基本规则在相同描述复杂度下可能异常“高产”。基本物理的描述极短：经典场论只需要很少的微分和几何结构，量子力学和量子场论的基本框架也同样简洁。
+我猜，我们世界的基本规则在相同描述复杂度下可能异常“高产”。基本物理的描述极短：经典场论只需要很少的微分和几何结构，量子力学和量子场论的基本框架也同样简洁。
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-I increasingly suspect that, among worlds with fundamental laws of comparable description complexity, ours may be unusually productive. Fundamental physics is described by remarkably short rules: classical field theories use only a small amount of differential and geometric structure, while the basic frameworks of quantum mechanics and quantum field theory are similarly concise.
+I suspect that, among worlds with fundamental laws of comparable description complexity, ours may be unusually productive. Fundamental physics is described by remarkably short rules: classical field theories use only a small amount of differential and geometric structure, while the basic frameworks of quantum mechanics and quantum field theory are similarly concise.
 
 
 
